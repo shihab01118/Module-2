@@ -6,3 +6,13 @@
     color: white;
     background-color: gray;
 }
+.task2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    background-color: azure;
+}
+.task3 {
+    width: 70%;
+    text-align: justify;
+
+}
