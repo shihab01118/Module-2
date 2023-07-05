@@ -1,0 +1,19 @@
+Task-1:
+1. Create an HTML document with three paragraphs.
+2. Apply CSS styles to each paragraph using inline, internal and external styles.
+
+Task-2: 
+1. Design a webpage with a heading, paragraphs and a list.
+2. Apply CSS styles to change the text color, alignment, font size, font family and font style for different elements.
+
+Task-3:
+1. Create a HTML document with various elements including headings, paragraphs and divs.
+2. Use different CSS selectors(id, class, universal, tag) to apply styles to specific elements.
+
+Task-4: 
+1. Design a webpage with multiple sections/divs.
+2. Apply CSS styles to set different background colors, images, repeats, positions and sizes for each section.
+
+Task-5: 
+1. Create a webpage with various elements such as divs, paragraphs and images.
+2. Apply CSS styles to add borders with different widths, colors, border-radious and box-shadow  effects to the elements.
